@@ -148,6 +148,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
+DocumentPath=SD_Card.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document9]
 DocumentPath=Morpheus_middle.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -163,7 +179,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document10]
 DocumentPath=..\..\hello-hardware-components\Components\Hello.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +195,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document11]
 DocumentPath=..\..\hello-hardware-components\Components\Hello.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -195,7 +211,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document12]
 DocumentPath=Morpheus_middle.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,22 +219,6 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document12]
-DocumentPath=SD_Card.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
