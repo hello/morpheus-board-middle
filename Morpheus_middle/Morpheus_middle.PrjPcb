@@ -212,79 +212,243 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Morpheus_middle\Design Rule Check - Morpheus_middle.html
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.DRR
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.EXTREP
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.G1
+DocumentPath=Project Outputs for Morpheus_middle\Design Rule Check - Morpheus_middle.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.G2
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBL
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBO
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBP
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBS
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GD1
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTL
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTO
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTP
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTS
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.LDP
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.REP
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.RUL
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.TXT
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\oval9.8425x25.5906_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\oval9.8425x29.5276_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\oval13.7795x29.5276_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\oval13.7795x33.4646_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\oval19.2913x35.0394_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\oval19.2913x38.9764_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect11.811x19.685_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect11.811x19.685_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect13.7795x11.811_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect15.748x23.622_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect15.748x23.622_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect17.7165x15.748_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect21.2598x29.1338_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect21.2598x29.1338_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect23.2283x21.2598_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect66.9291x47.2441_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect70.8661x51.1811_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect76.3779x56.6929_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Morpheus_middle\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.G1
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.G2
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.REP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument56]
 DocumentPath=Project Outputs for Morpheus_middle\Pick Place for Morpheus_middle.txt
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\rout\tools
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -626,12 +790,11 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=Canon MF4800 Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
@@ -639,11 +802,12 @@ OutputVariantName2=[No Variations]
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -697,6 +861,8 @@ OutputName8=ODB++ Files
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
 OutputType9=Plane
 OutputName9=Power-Plane Prints
 OutputDocumentPath9=
@@ -709,53 +875,53 @@ OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973831~1|PlotDrillDrawingLayerPair0_HighLayer=Top Layer|PlotDrillDrawingLayerPair0_LowLayer=Bottom Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
 TargetPrinter=Canon MF4800 Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=Script
-OutputName1=Script Output
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=SimpleBOM
-OutputName2=Simple BOM
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=Filter
+Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name2=General
+Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1342|FormHeight=973|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name3=GroupOrder
+Configuration1_Item3=Comment=True|Footprint=True
+Configuration1_Name4=OutputConfigurationParameter1
+Configuration1_Item4=View|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|PN=100|Quantity=100|Vendor=100|Tolerance=100|Voltage=100|Value=100
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=SinglePinNetReporter
-OutputName3=Report Single Pin Nets
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=BOM_PartType
-OutputName4=Bill of Materials
+OutputType4=Script
+OutputName4=Script Output
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration4_Name1=Filter
-Configuration4_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration4_Name2=General
-Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1342|FormHeight=973|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration4_Name3=GroupOrder
-Configuration4_Item3=Comment=True|Footprint=True
-Configuration4_Name4=OutputConfigurationParameter1
-Configuration4_Item4=View|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True
-Configuration4_Name5=SortOrder
-Configuration4_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|PN=100|Quantity=100|Vendor=100|Tolerance=100|Voltage=100|Value=100
-OutputType5=ComponentCrossReference
-OutputName5=Component Cross Reference Report
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ReportHierarchy
-OutputName6=Report Project Hierarchy
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
