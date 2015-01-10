@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for Morpheus_middle
+OutputPath=
 LogFolderPath=
 
 [Preferences]
@@ -228,22 +228,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document13]
-DocumentPath=Project Outputs for Morpheus_middle\Pick Place for Morpheus_middle.txt
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document14]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\netlists\cadnet\netlist
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,23 +243,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.TXT
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document16]
+[Document14]
 DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.RUL
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +259,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document17]
+[Document15]
 DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.REP
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +275,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document18]
+[Document16]
 DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.LDP
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,295 +291,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document19]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTS
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document20]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTP
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document21]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTO
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document22]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GTL
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document23]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GPT
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document24]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GPB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document25]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GM16
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document26]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GM15
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document27]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GM13
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document28]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GM1
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document29]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GKO
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document30]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GD1
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document31]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBS
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document32]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBP
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document33]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBO
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document34]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.GBL
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document35]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.G2
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document36]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.G1
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document37]
+[Document17]
 DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.EXTREP
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +307,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document38]
+[Document18]
 DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.DRR
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,39 +323,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document39]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.CSV
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document40]
-DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.BOM
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document41]
+[Document19]
 DocumentPath=Project Outputs for Morpheus_middle\odb\matrix\matrix
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -691,7 +339,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document42]
+[Document20]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\topsolder\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -707,7 +355,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document43]
+[Document21]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\toppaste\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -723,7 +371,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document44]
+[Document22]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\topoverlay\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -739,7 +387,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document45]
+[Document23]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\top\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -755,7 +403,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document46]
+[Document24]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\rout\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -771,7 +419,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document47]
+[Document25]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\mid2\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -787,7 +435,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document48]
+[Document26]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\mid1\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -803,7 +451,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document49]
+[Document27]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\drill\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +467,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document50]
+[Document28]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\comp_+_top\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -835,7 +483,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document51]
+[Document29]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\comp_+_bot\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -851,7 +499,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document52]
+[Document30]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\bottomsolder\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -867,7 +515,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document53]
+[Document31]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\bottompaste\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -883,7 +531,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document54]
+[Document32]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\bottomoverlay\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +547,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document55]
+[Document33]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\bottom\features
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -915,7 +563,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document56]
+[Document34]
 DocumentPath=Project Outputs for Morpheus_middle\Design Rule Check - Morpheus_middle.html
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -931,7 +579,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document57]
+[Document35]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\eda\data
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -947,7 +595,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document58]
+[Document36]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\comp_+_top\components
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -963,7 +611,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document59]
+[Document37]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\comp_+_bot\components
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -979,23 +627,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document60]
-DocumentPath=Project Outputs for Morpheus_middle\Board Information - Morpheus_middle.html
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document61]
+[Document38]
 DocumentPath=Morpheus_middle.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1011,7 +643,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document62]
+[Document39]
 DocumentPath=..\..\hello-hardware-components\Components\Hello.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1027,7 +659,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document63]
+[Document40]
 DocumentPath=..\..\hello-hardware-components\Components\Hello.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1044,34 +676,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Morpheus_middle\Fabrication Testpoint Report for Morpheus_middle.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\mid3\features
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Morpheus_middle\odb\steps\pcb\layers\mid4\features
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect66.9291x47.2441_345\features
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect70.8661x51.1811_345\features
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Morpheus_middle\odb\symbols\rect76.3779x56.6929_345\features
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.G3
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Morpheus_middle\Morpheus_middle.G4
 DItemRevisionGUID=
 
@@ -1125,7 +753,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Morpheus_middle
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
